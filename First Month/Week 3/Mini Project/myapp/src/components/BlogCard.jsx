@@ -1,5 +1,3 @@
-import React from "react";
-
 function BlogCard({ title, author, description }) {
   return (
     <div className="blog-card">
