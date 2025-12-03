@@ -1,0 +1,16 @@
+.nav{
+  display: flex;
+  gap: 20px;
+  padding: 15px;
+  background: #333;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.link.active {
+  color:red;
+}
